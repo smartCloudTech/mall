@@ -20,7 +20,7 @@
 
     <!--  统一各个框架版本  -->
     <spring.version>5.1.2.RELEASE</spring.version>
-    <hibernate.version>5.2.11.Final</hibernate.version>
+    <hibernate.version>5.3.20.Final</hibernate.version>
   </properties>
 
 
